@@ -1,0 +1,26 @@
+# FILE: /.gitignore
+
+# Environment file (contains sensitive data)
+.env
+
+# Storage directory
+/storage/uploads/*
+!/storage/uploads/.gitkeep
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
