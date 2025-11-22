@@ -44,7 +44,7 @@ A complete, production-ready multi-tenant SaaS Learning Management System built 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/SplashLMS.git
+git clone https://github.com/ahmedsaadawi13/SplashLMS.git
 cd SplashLMS
 ```
 
